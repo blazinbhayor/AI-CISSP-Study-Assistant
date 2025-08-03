@@ -48,3 +48,15 @@ I am currently awaiting **(ISC)² endorsement** to officially hold the CISSP cer
 This repository is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 
 You are free to **share** and **adapt** this prompt for any purpose, even commercially, **as long as you provide proper credit**:
+
+AI CISSP Study Assistant by Ridwan Ganiyu
+https://github.com/<your-username>/AI-CISSP-Study-Assistant
+Licensed under CC BY 4.0
+
+Full License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## 💬 Connect
+If this prompt helps you succeed, connect with me on **LinkedIn** and share your journey!  
+
